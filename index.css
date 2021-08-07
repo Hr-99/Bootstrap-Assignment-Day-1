@@ -1,0 +1,17 @@
+.my-container{
+    background-color:grey;
+}
+
+.block{
+    height: 150px;
+    background-color: aquamarine;
+}
+
+.block2{
+    height: 150px;
+    background-color:cadetblue
+}
+
+.block3{
+    height: 150px;
+}
